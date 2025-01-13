@@ -19,24 +19,4 @@ Check out the live app here: [Camera App](https://camera-app-cyan.vercel.app/)
 
 ## Deployment
 
-This app is deployed on Vercel. To deploy your own version:
-
-1. Connect your GitHub repository to Vercel.
-2. Push your changes to the `main` branch (or the branch you've configured).
-3. Vercel will automatically build and deploy your app.
-
-## Contributing
-
-Contributions are welcome! Follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
+This app was developed by [Muhammad Jowel](https://github.com/muhammad-jowel)

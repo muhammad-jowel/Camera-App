@@ -1,6 +1,6 @@
 # Camera App
 
-A simple and interactive Camera App that captures photos using the device's camera. Deployed on [Vercel](https://camera-app-cyan.vercel.app/).
+A simple and interactive Camera App that captures photos using the device's camera.
 
 ## Features
 
